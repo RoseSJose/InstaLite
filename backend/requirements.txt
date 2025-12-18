@@ -1,0 +1,6 @@
+Flask
+Flask_SQLAlchemy
+Flask_CORS
+bcrypt
+PyJWT
+Werkzeug
